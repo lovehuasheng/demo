@@ -1,0 +1,918 @@
+[ 2017-11-15T09:19:10+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-15T09:19:11+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-15T09:20:34+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1115 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1146 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1155 行.
+
+[ 2017-11-15T09:22:01+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1190 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2048] Declaration of Think\Model\MongoModel::setInc() should be compatible with Think\Model::setInc($field, $step = 1, $lazyTime = 0) D:\phpStudy\WWW\Search_Api3.0\ThinkPHP\Library\Think\Model\MongoModel.class.php 第 17 行.
+NOTIC: [2048] Declaration of Think\Model\MongoModel::setDec() should be compatible with Think\Model::setDec($field, $step = 1, $lazyTime = 0) D:\phpStudy\WWW\Search_Api3.0\ThinkPHP\Library\Think\Model\MongoModel.class.php 第 17 行.
+NOTIC: [2048] Declaration of Search\Model\MonModel::count() should be compatible with Think\Model\MongoModel::count() D:\phpStudy\WWW\Search_Api3.0\Application\Search\Model\MonModel.class.php 第 45 行.
+NOTIC: [2048] Declaration of Search\Model\MonModel::save() should be compatible with Think\Model::save($data = '', $options = Array) D:\phpStudy\WWW\Search_Api3.0\Application\Search\Model\MonModel.class.php 第 45 行.
+NOTIC: [2048] Declaration of Search\Model\MonModel::delete() should be compatible with Think\Model::delete($options = Array) D:\phpStudy\WWW\Search_Api3.0\Application\Search\Model\MonModel.class.php 第 45 行.
+NOTIC: [2048] Declaration of Search\Model\MonModel::select() should be compatible with Think\Model::select($options = Array) D:\phpStudy\WWW\Search_Api3.0\Application\Search\Model\MonModel.class.php 第 45 行.
+ERR: Failed to connect to: 192.168.1.237:27017: SASL Authentication failed on database 'ichunt': Authentication failed.
+
+[ 2017-11-15T09:26:56+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: MouserPart D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1095 行.
+
+[ 2017-11-15T09:27:54+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T09:28:59+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T09:58:10+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-15T09:58:56+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:00:33+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:02:07+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-15T10:02:29+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:03:43+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1301 行.
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\Search_Api3.0\Application\Common\Common\function.php 第 155 行.
+
+[ 2017-11-15T10:07:01+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:07:22+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1301 行.
+
+[ 2017-11-15T10:08:30+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1301 行.
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\Search_Api3.0\Application\Common\Common\function.php 第 155 行.
+
+[ 2017-11-15T10:15:11+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1301 行.
+
+[ 2017-11-15T10:16:27+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Array to string conversion D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1301 行.
+
+[ 2017-11-15T10:18:28+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:19:33+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:20:27+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:26:18+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-11-15T10:30:23+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-15T10:32:51+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-15T10:33:41+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:38:55+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:40:05+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:40:22+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+
+[ 2017-11-15T10:41:18+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T10:41:33+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+
+[ 2017-11-15T10:42:09+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-15T10:42:23+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-11-15T10:43:34+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: MouserPart D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1095 行.
+
+[ 2017-11-15T10:44:06+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+
+[ 2017-11-15T10:44:43+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+
+[ 2017-11-15T10:45:27+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+
+[ 2017-11-15T10:46:01+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1189 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1116 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1195 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1214 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1220 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1124 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1147 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1156 行.
+
+[ 2017-11-15T10:50:24+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: arr D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1090 行.
+
+[ 2017-11-15T10:50:48+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-15T10:53:18+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-11-15T10:54:12+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-15T11:03:08+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1190 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1196 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1117 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1125 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1190 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1196 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1117 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1125 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1196 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1125 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1157 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1157 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1196 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1125 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1157 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1157 行.
+
+[ 2017-11-15T11:03:08+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T11:10:55+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1190 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1196 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1117 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1125 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1190 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1196 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1117 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1125 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1196 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1125 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1157 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1157 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1196 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1215 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1221 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1125 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1157 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1148 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1157 行.
+
+[ 2017-11-15T11:10:55+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T11:13:41+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1191 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1197 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1118 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1126 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1191 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1197 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1118 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1126 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1197 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1216 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1222 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1216 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1222 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1126 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1150 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1158 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1150 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1158 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1197 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1216 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1222 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1216 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1222 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1126 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1150 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1158 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1150 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1158 行.
+
+[ 2017-11-15T11:13:41+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-11-15T11:18:10+08:00 ]  
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: REQUEST_METHOD D:\phpStudy\WWW\Search_Api3.0\ThinkPHP\Library\Think\App.class.php 第 31 行.
+NOTIC: [8] Undefined index: REQUEST_URI D:\phpStudy\WWW\Search_Api3.0\ThinkPHP\Library\Think\Dispatcher.class.php 第 137 行.
+NOTIC: [8] Use of undefined constant _PHP_FILE_ - assumed '_PHP_FILE_' D:\phpStudy\WWW\Search_Api3.0\ThinkPHP\Library\Think\Dispatcher.class.php 第 191 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1191 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1197 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1118 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1126 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1191 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1197 行.
+NOTIC: [8] Undefined index: ImagePath D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1118 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1126 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1197 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1216 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1222 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1216 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1222 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1126 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1150 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1158 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1150 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1158 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1197 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1216 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1222 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1216 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1222 行.
+NOTIC: [8] Undefined offset: 1 D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1126 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1150 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1158 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1149 行.
+NOTIC: [2] Illegal string offset 'Price' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1150 行.
+NOTIC: [2] Illegal string offset 'Quantity' D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1158 行.
+
+[ 2017-11-15T11:22:00+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-11-15T11:22:35+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: info D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1309 行.
+
+[ 2017-11-15T11:24:18+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: info D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1309 行.
+
+[ 2017-11-15T11:25:54+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Illegal offset type D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1311 行.
+NOTIC: [2] Illegal offset type D:\phpStudy\WWW\Search_Api3.0\Application\Search\Controller\EsController.class.php 第 1312 行.
+
+[ 2017-11-15T11:40:27+08:00 ] 127.0.0.1 /search/es/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
